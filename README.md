@@ -4,7 +4,6 @@ A simple word quiz application written in C that allows users to test their voca
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [How to Use the Project](#how-to-use-the-project)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -21,14 +20,14 @@ gcc -o wordquiz wordquiz.c
 ./wordquiz
 ```
 
-## Usage
 
+
+
+## How to Use the Project
 Run the application:
 ```bash
 ./wordquiz
 ```
-
-## How to Use the Project
  1. List Wordbooks:
     - Select option '1' to list all available wordbooks.
     - Example: wordbooks directory contains various wordbook files.
