@@ -5,9 +5,10 @@ A simple word quiz application written in C that allows users to test their voca
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [How to Use the Project](#how-to-use-the-project)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
+- [License](#license)
 
 ## Installation
 
@@ -27,6 +28,21 @@ Run the application:
 ./wordquiz
 ```
 
+## How to Use the Project
+ 1. List Wordbooks:
+    - Select option '1' to list all available wordbooks.
+    - Example: wordbooks directory contains various wordbook files.
+ 2. Show Words in a Wordbook:
+    - Select option 2, then type the name of the wordbook.
+    - Example: Enter vocab.txt to see the words and meanings.
+ 3. Test with a Wordbook:
+    - Select option 3, then type the name of the wordbook.
+    - Answer the quiz questions based on the meanings provided.
+
+## Credits
+### Team
+- Group 201 https://github.com/DireRaven22075/wordquiz
+  
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
